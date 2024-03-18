@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robix-24/static/css/main.391096b7.css",
+    "main.js": "/Robix-24/static/js/main.42a084cd.js",
+    "static/media/LINE FOLLOWER.png": "/Robix-24/static/media/LINE FOLLOWER.061970d47a2cfe2c0a22.png",
+    "static/media/WORKSHOP.png": "/Robix-24/static/media/WORKSHOP.e3bd6d1411022ee3b9db.png",
+    "static/media/ROBO WAR.png": "/Robix-24/static/media/ROBO WAR.d36dd8cad31511513bca.png",
+    "static/media/dialoug.png": "/Robix-24/static/media/dialoug.1d80af1e373d20a19da9.png",
+    "static/media/Paper presentation.jpg": "/Robix-24/static/media/Paper presentation.e0a28ec3842bde46f076.jpg",
+    "static/media/about.svg": "/Robix-24/static/media/about.a4eff2220dd963e3839ab8baf346ba59.svg",
+    "static/media/event.svg": "/Robix-24/static/media/event.93b71ba480a2e1607332f98ffe364af5.svg",
+    "static/media/Drone Racing by Simulation.jpg": "/Robix-24/static/media/Drone Racing by Simulation.020f306bcb3526be03c0.jpg",
+    "static/media/aiimage.jpeg": "/Robix-24/static/media/aiimage.99d3c7aea3df41bc211e.jpeg",
+    "static/media/dronerace.jpeg": "/Robix-24/static/media/dronerace.a0cce4bfdf53887ed2ae.jpeg",
+    "static/media/Quantum.otf": "/Robix-24/static/media/Quantum.ab22dee95cbffcc89a87.otf",
+    "static/media/backGround.svg": "/Robix-24/static/media/backGround.a81af7b043965c800371.svg",
+    "index.html": "/Robix-24/index.html",
+    "main.391096b7.css.map": "/Robix-24/static/css/main.391096b7.css.map",
+    "main.42a084cd.js.map": "/Robix-24/static/js/main.42a084cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.391096b7.css",
+    "static/js/main.42a084cd.js"
+  ]
+}
